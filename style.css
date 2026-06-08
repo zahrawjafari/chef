@@ -1,0 +1,27 @@
+.v1{
+    display: flex;
+
+}
+.v2{
+    width:100px;
+height: 15px;
+padding: 40px 20px;
+}
+.v3{
+    display: flex;
+    gap: 30px;
+    padding: 30px 350px;
+}
+.v4{
+    display: flex;
+    padding: 40px 20px;
+    gap: 60px;
+}
+.v5{
+    font-family: inter;
+    font-size: 64px;
+    margin-left: 560px;
+}
+.v6{
+    padding: 40px 100px;
+}
