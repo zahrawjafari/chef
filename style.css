@@ -25,3 +25,159 @@ padding: 40px 20px;
 .v6{
     padding: 40px 100px;
 }
+
+.input{
+    display: flex;
+    position: relative;
+padding-left: 15px;
+left: 600px;
+top: -500px;
+gap: 20px;
+}
+.v7{flex: 1;
+    border-radius: 10px;
+border: 1px solid #ddd;
+height: 40px;
+width: 350px;
+}
+.input1{
+     display: flex;
+    position: relative;
+padding-left: 15px;
+left: 600px;
+top: -500px;
+gap: 20px;
+}
+.input2{ 
+    position: relative;
+padding-left: 15px;
+left: 600px;
+top: -490px;
+gap: 50px;
+
+}
+.v8{
+    display: flex;
+    border-radius: 10px;
+border: 1px solid #ddd;
+height: 200px;
+width: 730px;
+
+}
+.v9{
+
+    position: relative;
+    background-color: black;
+    color: white;
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    padding-left: 15px;
+left: 620px;
+top: -450px;
+gap: 20px;
+}
+.back{ 
+    position: relative;
+    top: -300px;
+    padding: 30px 90px;
+}
+.v10{
+    display: grid;
+     position: relative;
+    top: -650px;
+right: 200px;
+    padding: 30px 120px;
+    font-family: Inter;
+font-weight: 400;
+font-size: 16px;
+leading-trim: NONE;
+line-height: 28px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+.v11{ position: relative;
+    top: -650px;
+    left: 500px;
+}
+.v12{
+    border-radius: 10px;
+    border: none;
+    width: 430px;
+    height: 80px;
+}
+.v13{
+    position: relative;
+    right:200px;
+    width: 160px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+.v14{ position: relative;
+    font-family: inter;
+    font-size: 35px;
+    align-items: center;
+    left: 400px;
+    top: -600px;
+}
+.v15{
+    display: flex;
+    position: relative;
+    gap: 40px;
+    top: -500px;
+    border-radius: 10px;
+    padding: 10px 90px;
+}
+.v16{
+     display: flex;
+    position: relative;
+    gap: 140px;
+    top: -500px;
+    border-radius: 10px;
+    padding: 10px 90px;
+    font-size: 18px;
+}
+.v17{
+     display: flex;
+    position: relative;
+    gap: 140px;
+    top: -500px;
+    border-radius: 10px;
+    padding: 1px 90px;
+    font-size: 18px;
+color: grey;
+}
+.v18{
+      display: flex;
+    position: relative;
+    top: -500px;
+      width:100px;
+height: 15px;
+padding: 30px 80px;
+}
+.v19{
+      display: flex;
+    position: relative;
+    top: -550px;
+    padding: 15px 80px;
+    color: gray;
+}
+.v20{
+         display: flex;
+    position: relative;
+    top: -550px;
+    left: 1100px;
+    gap: 20px;
+
+}
+.v21{
+         display: flex;
+    position: relative;
+    top: -530px;
+    left: 1200px;
+    gap: 20px;
+
+}
